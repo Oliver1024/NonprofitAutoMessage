@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Homework 8
 ## Creator: Zhuocai Li, Kejian Tong, Houming Leng
+=======
+# Nonprofit Communication Automation Message
+## Creator: Zhuocai Li, Kejian Tong, Houming Leng
+
+>>>>>>> d695249e7dc7871dd993ac5cb4751fb3e9b9ce58
 1.Brief Program Description
 A letter/email generator, based on given template and receivers' data
 
