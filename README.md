@@ -1,5 +1,4 @@
 # Nonprofit Communication Automation Message
-## Creator: Zhuocai Li, Kejian Tong, Houming Leng
 
 ### 1.Brief Program Description
 ### A letter/email generator, based on given template and receivers' data
